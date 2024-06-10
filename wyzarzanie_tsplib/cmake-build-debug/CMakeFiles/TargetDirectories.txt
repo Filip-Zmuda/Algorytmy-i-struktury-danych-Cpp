@@ -1,0 +1,3 @@
+C:/Users/filip/CLionProjects/wyzarzanie_tsplib/cmake-build-debug/CMakeFiles/wyzarzanie_tsplib.dir
+C:/Users/filip/CLionProjects/wyzarzanie_tsplib/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/filip/CLionProjects/wyzarzanie_tsplib/cmake-build-debug/CMakeFiles/rebuild_cache.dir

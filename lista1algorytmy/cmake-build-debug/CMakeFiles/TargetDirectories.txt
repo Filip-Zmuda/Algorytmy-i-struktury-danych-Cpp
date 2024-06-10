@@ -1,0 +1,3 @@
+C:/Users/filip/Documents/pulpit/CLionProjects/lista1algorytmy/cmake-build-debug/CMakeFiles/lista1algorytmy.dir
+C:/Users/filip/Documents/pulpit/CLionProjects/lista1algorytmy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/filip/Documents/pulpit/CLionProjects/lista1algorytmy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
